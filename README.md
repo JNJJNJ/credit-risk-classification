@@ -10,7 +10,6 @@ In this Challenge, I’ll use various techniques to train and evaluate a model b
 - Write a Credit Risk Analysis Report
 
 **Results**
-![image](https://github.com/user-attachments/assets/820319f7-546c-4e53-add9-67fa3aeac8d5)
 
 Healthy Loans:
 - Precision = 1.00
@@ -21,6 +20,8 @@ High-Risk Loans:
 - Precision = .85
 - Recall = .99
 - f1-score = .88
+
+![image](https://github.com/user-attachments/assets/820319f7-546c-4e53-add9-67fa3aeac8d5)
 
 **Summary**
 
